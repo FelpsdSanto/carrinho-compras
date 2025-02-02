@@ -27,7 +27,7 @@ Este projeto é um **sistema simples de carrinho de compras**, desenvolvido em *
 
 ## 🌍 Acesse o Projeto
 
-🔗 [Clique aqui para acessar o sistema de carrinho de compras](https://carrinho-compras-kpv6jjdw6-felpsdsantos-projects.vercel.app/)  
+🔗 [Clique aqui para acessar o sistema de carrinho de compras](https://carrinho-compras-9d8sfnth9-felpsdsantos-projects.vercel.app/)  
 
 ## 📜 Licença
 
